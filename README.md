@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JemimaJabamalar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development
-- 💞️ I’m looking to collaborate on workplace where i can explre new things,gain knowledge and that build me a good carrear
+- 💞️ I’m looking to collaborate on workplace where i can explore new things,gain knowledge and that build me a good carrear
 - 📫 How to reach me @ jemi.malar22@gmail.com
 
 <!---
